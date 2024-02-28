@@ -6,6 +6,8 @@ public class hello
 	        System.out.println("tumkur");
 		System.out.println("sillong");
 		System.out.println("mizoram");
+		System.out.println("goa");
+		
 
 	}
 }
